@@ -3,3 +3,12 @@ __pycache__/
 *.py[cod]
 *~
 *.so
+
+detectron2.egg-info
+build
+dist
+output
+*.so
+
+# symbolic link
+detectron2/model_zoo/configs
